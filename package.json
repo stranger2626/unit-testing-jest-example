@@ -1,0 +1,29 @@
+{
+  "name": "unit-testing-jest-example",
+  "version": "1.0.0",
+  "description": "a simple example of jest being used for unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stranger2626/unit-testing-jest-example.git"
+  },
+  "author": "Matsvei Murashka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stranger2626/unit-testing-jest-example/issues"
+  },
+  "homepage": "https://github.com/stranger2626/unit-testing-jest-example#readme",
+  "devDependencies": {
+    "eslint": "^6.7.0",
+    "eslint-config-google": "^0.14.0",
+    "husky": "^3.1.0",
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "yarn": "^1.19.2"
+  }
+}
