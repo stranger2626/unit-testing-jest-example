@@ -1,6 +1,6 @@
 const fs = require('fs');
 const yargs = require('yargs');
-const {getCharacterDatabase} = require('./lib/api_hepers');
+const {getCharacterDatabase} = require('./lib/api_helpers');
 const {findCharacters} = require('./lib/character_helpers');
 
 yargs.command({
